@@ -1,2 +1,3 @@
 alerta-server
 gunicorn
+cffi
