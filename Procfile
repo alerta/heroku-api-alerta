@@ -1,1 +1,1 @@
-web: gunicorn alerta.app:app --log-file -
+web: gunicorn alerta:app --log-level debug --log-file -
