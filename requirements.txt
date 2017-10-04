@@ -1,4 +1,4 @@
-git+git://github.com/guardian/alerta@release-5-beta1#egg=alerta
+alerta-server==5.0.0rc3
 gunicorn
 cffi
 
