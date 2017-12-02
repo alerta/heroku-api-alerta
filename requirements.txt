@@ -1,4 +1,4 @@
-alerta-server==5.0.0rc3
+alerta-server
 gunicorn
 cffi
 
