@@ -1,4 +1,3 @@
-alerta-server==5.0.8
+alerta-server==5.1.1
 gunicorn
 cffi
-
