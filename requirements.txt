@@ -1,3 +1,3 @@
-git+git://github.com/alerta/alerta.git
+git+https://github.com/alerta/alerta.git
 gunicorn
 cffi
