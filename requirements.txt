@@ -1,3 +1,4 @@
 git+https://github.com/alerta/alerta.git
+psycopg2
 gunicorn
 cffi
